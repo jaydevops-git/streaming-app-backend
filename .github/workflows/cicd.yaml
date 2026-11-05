@@ -37,4 +37,3 @@ jobs:
         run: |
           docker tag movie_backend:latest 678080238090.dkr.ecr.eu-north-1.amazonaws.com/movie_backend:latest
           docker push 678080238090.dkr.ecr.eu-north-1.amazonaws.com/movie_backend:latest
-
